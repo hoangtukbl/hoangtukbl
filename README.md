@@ -5,12 +5,9 @@
 <!--
 **hoangtukbl/hoangtukbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 - 🔭 I’m currently working on HCMUS
 - 🌱 I’m currently learning HCMUS
 - 💬 Ask me about programing
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtukbl&theme=dracula)
 
