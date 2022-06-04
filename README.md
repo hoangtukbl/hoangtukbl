@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <p align='center'>
 
-  ![Puru Vijay's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hoangtukbl&show_icons=true&count_private=true&theme=solarized_dark)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangtukbl&show_icons=true&theme=solarized_dark)
+  ![Puru Vijay's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hoangtukbl&show_icons=true&count_private=true&theme=dracula)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangtukbl&show_icons=true&theme=dracula)
 </p>
 
 
