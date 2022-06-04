@@ -1,8 +1,6 @@
 ### Hi there, I'm Tu <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="20px">
 <!-- <img src="https://github.com/Bin-08-01/Bin-08-01/blob/main/bg.jpg?raw=true"> -->
 
-
-<!--
 **hoangtukbl/hoangtukbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on HCMUS
