@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtukbl&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtukbl&theme=dracula)
 
 <!-- START_SECTION: waka -->
 <!-- END_SECTION: waka --> 
