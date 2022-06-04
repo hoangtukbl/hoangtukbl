@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=hoangtukbl&color=blue)
-<img src="https://wakatime.com/badge/user/131d8e46-efda-499b-9e14-0e4af0cc99e4">&nbsp;
+[![wakatime](https://wakatime.com/badge/user/131d8e46-efda-499b-9e14-0e4af0cc99e4.svg)](https://wakatime.com/@131d8e46-efda-499b-9e14-0e4af0cc99e4)
